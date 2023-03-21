@@ -49,40 +49,51 @@ Start the server
 **Server:** NodeJs, ExpressJs
 
 ## Screenshots
-![login-page-user](https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/1.jpeg)
-## Login page
+<img src="https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/1.jpeg" height="1000" width="480">
 
-![login-page-owner](https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/2.jpeg)
+## Login page
+<img src="https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/2.jpeg" height="1000" width="480">
+
 ## Login Page
 
-![otp-page](https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/3.jpeg)
-## Otp-Page
+<img src="https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/3.jpeg" height="1000" width="480">
 
-![scan-qr](https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/4.jpeg)
+## OTP-Page
+
+<img src="https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/4.jpeg" height="1000" width="480">
+
 ## Scan-QR
 
-![scan-qr](https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/5.jpeg)
+<img src="https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/5.jpeg" height="1000" width="480">
+
 ## Scan-QR
 
-![donation-page](https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/6.jpeg)
+<img src="https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/6.jpeg" height="1000" width="480">
+
 ## Donation Page
 
-![Thanking-page](https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/7.jpeg)
+<img src="https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/7.jpeg" height="1000" width="480">
+
 ## Thanking Page
 
-![Preference Page](https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/8.jpeg)
+<img src="https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/8.jpeg" height="1000" width="480">
+
 ## Preference Page
 
-![Customer-listing](https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/9.jpeg)
+<img src="https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/9.jpeg" height="1000" width="480">
+
 ## Customer Listing
 
-![coupon-updation](https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/10.jpeg)
+<img src="https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/10.jpeg" height="1000" width="480">
+
 ## Coupon Updation
 
-![owner-donate](https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/11.jpeg)
+<img src="https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/11.jpeg" height="1000" width="480">
+
 ## Owner Donation
 
-![Thanking-Page](https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/12.jpeg)
+<img src="https://github.com/ByteBrigades/rajasthan-it-hackathon/blob/main/screenshot/12.jpeg" height="1000" width="480">
+
 ## Thanking Page
 
 ## Support
