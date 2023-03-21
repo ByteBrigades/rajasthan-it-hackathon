@@ -40,14 +40,8 @@ Start the server
 ```bash
   npm start
 ```
+* Type your System IP address in the Local Host
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
 ## Tech Stack
 
