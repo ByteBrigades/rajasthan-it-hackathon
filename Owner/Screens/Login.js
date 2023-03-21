@@ -33,7 +33,7 @@ const Login = () => {
       // handle owner login
       if (!loginId && !password) return;
       await axios
-        .post("http://192.168.137.1:8080/owners/", {
+        .post("http://localhost:8080/owners/", {
           username: loginId,
           password: password,
         })

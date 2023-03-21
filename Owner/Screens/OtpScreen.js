@@ -38,7 +38,7 @@ const OTPScreen = () => {
     if (!otp) return;
     if (otp !== givenOtp) return;
     await axios
-      .post("http://192.168.137.1:8080/customers/", {
+      .post("http://localhost:8080/customers/", {
         phoneNumber: phoneNumber,
       })
       .then((res) => {

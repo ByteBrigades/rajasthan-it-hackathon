@@ -26,7 +26,7 @@ const QRCodeScan = () => {
   const handlePressNext = async () => {
     if (scanResult) {
       await axios
-        .post("http://192.168.137.1:8080/customers/scanned", {
+        .post("http://localhost:8080/customers/scanned", {
           phoneNumber: user.phoneNumber,
         })
         .then((res) => {
