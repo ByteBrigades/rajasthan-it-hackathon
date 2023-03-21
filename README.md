@@ -20,7 +20,7 @@ A brief description of what this project does and who it's for
 Clone the project
 
 ```bash
-  git clone https://github.com/ByteBrigades/rajasthan-it-hackathon.git
+  git clone https://link-to-project
 ```
 
 Go to the project directory
@@ -41,6 +41,13 @@ Start the server
   npm start
 ```
 
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
 
 ## Tech Stack
 
